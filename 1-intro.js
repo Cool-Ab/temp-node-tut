@@ -5,6 +5,4 @@ if(amount<10){
 else if(amount>10){
     console.log('greater than 10')
 }
-else if (amount >= 20){
-    console.log(" greater than 20")
-}
+
